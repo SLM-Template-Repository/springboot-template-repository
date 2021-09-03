@@ -11,7 +11,7 @@ Spring boot template repository
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+* Sergey Melnikov - [pdasilem](https://github.com/pdasilem)
 
 ## Acknowledgments
 ...
